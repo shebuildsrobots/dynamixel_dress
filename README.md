@@ -2,8 +2,8 @@
 A self-twirling dress using Dynamixel motors. See [@shebuildsrobots on Instagram](https://www.instagram.com/p/DJCHeUfxoji/) for a demo!
 
 Materials:
-*  2x ROBOTIS 2XL430-W250-T DYNAMIXELS
-*  2x ROBOTIS FR11-H101K Frames/Mount Set
+*  2x [ROBOTIS 2XL430-W250-T DYNAMIXELS](https://emanual.robotis.com/docs/en/dxl/x/2xl430-w250/)
+*  2x [ROBOTIS FR11-H101K Frames/Mount Set](https://www.robotis.us/fr11-h101k-set/?srsltid=AfmBOopOjtFsTQc--46Tb-3f9ictpwGYh9qVSe6Asy7BidnVJqGaUHf9)
 *  OpenRB-150 and Arduino IDE
 *  12V power source
 *  Faux leather belt
