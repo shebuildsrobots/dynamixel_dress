@@ -1,5 +1,5 @@
 # Dynamixel Dress
-A self-twirling dress using Dynamixel motors.
+A self-twirling dress using Dynamixel motors. See [@shebuildsrobots on Instagram](https://www.instagram.com/p/DJCHeUfxoji/) for a demo!
 
 Materials:
 *  2x ROBOTIS 2XL430-W250-T DYNAMIXELS
